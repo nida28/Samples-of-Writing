@@ -1,0 +1,48 @@
+html, body, ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+}
+
+.clearfix {
+	overflow: auto;
+}
+
+.part-one {
+	font-family: 'Slabo 27px', serif; 
+	padding-left: 1%;
+	
+	padding-right: 1%;
+	padding-top: 1%;
+	text-align: center;
+}
+
+#main-title {
+	font-size: 200%;
+	color: #F507B5;
+	
+}
+
+#byline {
+	font-size: 90%;
+	color: #09A0F6;
+	
+}
+
+#text {
+	font-size: 100%;
+	font-family: 'Roboto', sans-serif;
+	padding-left: 4%;
+	padding-right: 5%;
+	padding-bottom: 2.5%;
+}
+
+
+
+#quote {
+	text-align: center;
+}
+
+#text li {
+	padding-top: 1.2%;
+}
