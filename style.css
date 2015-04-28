@@ -10,17 +10,20 @@ html, body, ul {
 
 .part-one {
 	font-family: 'Slabo 27px', serif; 
+
 	padding-left: 1%;
-	
 	padding-right: 1%;
 	padding-top: 1%;
 	text-align: center;
+	background-color: #A4E605;
+	height: 28%
 }
 
 #main-title {
 	font-size: 400%;
 	font-weight: bold;
 	color: #F507B5;
+	padding-top: 2%;
 	
 }
 
