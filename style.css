@@ -18,13 +18,14 @@ html, body, ul {
 }
 
 #main-title {
-	font-size: 200%;
+	font-size: 400%;
+	font-weight: bold;
 	color: #F507B5;
 	
 }
 
 #byline {
-	font-size: 90%;
+	font-size: 140%;
 	color: #09A0F6;
 	
 }
